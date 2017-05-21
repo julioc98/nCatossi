@@ -8,9 +8,9 @@ PRINTS:
 
 <!--![Banana](https://lh3.googleusercontent.com/hp0TQzo23-EbZ4N4E4CJtpAbCrlybCSMTvJRU0-Z9mqO4SfTDOmfP0nPh7OduSYlzajgnunP=s640-h400-e365-rw "vou chorar")-->
 
-<img src="https://lh3.googleusercontent.com/hp0TQzo23-EbZ4N4E4CJtpAbCrlybCSMTvJRU0-Z9mqO4SfTDOmfP0nPh7OduSYlzajgnunP=s640-h400-e365-rw" />
+<img src="viado.png" />
 
-![funfa](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")
+<!--![funfa](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")-->
 
 <!--<img src="https://lh3.googleusercontent.com/hp0TQzo23-EbZ4N4E4CJtpAbCrlybCSMTvJRU0-Z9mqO4SfTDOmfP0nPh7OduSYlzajgnunP=s640-h400-e365-rw" title="print ncatossi" />
 <br />-->
